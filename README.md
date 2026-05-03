@@ -15,7 +15,7 @@ We design and build modern learning ecosystems, enterprise software, and automat
 
 ### Services
 
-* **Inacademic** — Bridging the gap between academic and industry through real-world experience
+* **Inacademic** — Bridging the gap between college and industry through real-world experience
 * **Tiiron Academy** — Early-stage programs in AI, coding, and emerging technologies for school students
 
 ---
